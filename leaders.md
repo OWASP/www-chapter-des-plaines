@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Alexander Iliev](mailto:alexander.iliev@owasp.org)
+* [Michael Asamoah](mailto:michael.asamoah@owasp.org)
