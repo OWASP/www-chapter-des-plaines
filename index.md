@@ -9,7 +9,13 @@ meetup-group:
 ---
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the OWASP Des Plaines Chapter!
+
+Join our community focused on application security. As part of OWASP, a global nonprofit, we're dedicated to advancing software security through education and collaboration.
+
+Connect with professionals, enthusiasts, and experts to exchange ideas and stay updated on the latest threats and best practices. Our events and activities offer valuable insights and networking opportunities.
+
+Get involved, share your expertise, and contribute to our vibrant community. Together, let's fortify the web and build a safer digital future.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
