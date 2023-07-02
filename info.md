@@ -2,6 +2,6 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](#)
+* [LinkedIn]([#](https://www.linkedin.com/company/owasp-des-plaines-chapter/)https://www.linkedin.com/company/owasp-des-plaines-chapter/)
 
 
