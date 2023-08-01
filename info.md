@@ -9,7 +9,7 @@
 * [Facebook]()
 * [YouTube](https://www.youtube.com/@OWASPDesPlaines)
 * [Twitter]()
-* [MeetUp]()
+* [MeetUp](https://www.meetup.com/owasp-des-plaines-chapter/)
 * [EventBrite]()
 * [Discord]()
 
