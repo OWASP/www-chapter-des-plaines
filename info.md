@@ -7,7 +7,7 @@
 ### Social Links
 * [LinkedIn](https://www.linkedin.com/company/owasp-des-plaines-chapter/)
 * [Facebook]()
-* [YouTube]()
+* [YouTube](https://www.youtube.com/@OWASPDesPlaines)
 * [Twitter]()
 * [MeetUp]()
 * [EventBrite]()
