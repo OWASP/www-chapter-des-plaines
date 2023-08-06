@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Des Plaines
 tags: event-tag
 region: North America
-meetup-group:
+meetup-group: owasp-des-plaines-chapter
 
 ---
 
