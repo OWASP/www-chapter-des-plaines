@@ -7,7 +7,7 @@
 ### Social Links
 * [Google Group](https://groups.google.com/a/owasp.org/g/owasp-des--plaines-chapter)
 * [LinkedIn](https://www.linkedin.com/company/owasp-des-plaines-chapter/)
-* [Facebook]()
+* [Facebook](https://www.facebook.com/people/OWASP-Des-Plaines/100094730052101/)
 * [YouTube](https://www.youtube.com/@OWASPDesPlaines)
 * [Twitter]()
 * [MeetUp](https://www.meetup.com/owasp-des-plaines-chapter/)
